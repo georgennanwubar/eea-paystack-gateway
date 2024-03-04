@@ -10,8 +10,8 @@ if (!defined('EVENT_ESPRESSO_VERSION')) {
  *
  *
  * @package			Event Espresso
- * @subpackage
- * @author				Mike Nelson
+ * @subpackage      espresso-paystack
+ * @author			George Nnanwubar
  *
  */
 class EE_PMT_Paystack_Onsite extends EE_PMT_Base{

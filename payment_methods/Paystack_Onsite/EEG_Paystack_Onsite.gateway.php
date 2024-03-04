@@ -10,8 +10,8 @@ if (!defined('EVENT_ESPRESSO_VERSION')) {
  *
  *
  * @package			Event Espresso
- * @subpackage
- * @author				Mike Nelson
+ * @subpackage      espresso-paystack
+ * @author			George Nnanwubar
  *
  */
  
@@ -23,7 +23,7 @@ class EEG_Paystack_Onsite extends EE_Onsite_Gateway{
 	 * as contained in the esp_currency table
 	 * @var array
 	 */
-	protected $_currencies_supported = array('NGN');
+	protected $_currencies_supported = array('NGN', 'USD');
 	
 	/**
 	 *
