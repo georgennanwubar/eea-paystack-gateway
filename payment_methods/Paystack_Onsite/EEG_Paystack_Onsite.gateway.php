@@ -23,8 +23,8 @@ class EEG_Paystack_Onsite extends EE_Onsite_Gateway{
 	 * as contained in the esp_currency table
 	 * @var array
 	 */
-	protected $_currencies_supported = array('NGN', 'USD');
-	
+    protected $_currencies_supported = array('NGN', 'USD', 'GHS', 'ZAR', 'KES');
+
 	/**
 	 *
 	 * @param EEI_Payment $payment
