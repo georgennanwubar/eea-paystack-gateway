@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Event Espresso - Paystack Payment Gateway (EE 4.6.0+)
-  Plugin URI: http://www.eventespresso.com
+  Plugin URI: https://github.com/georgennanwubar/eea-paystack-gateway
   Description: The Event Espresso Paystack Gateway adds a new onsite payment method using Paystack Nigeria API.
   Version: 1.0.5
   Author: George E. Nnanwubar
